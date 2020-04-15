@@ -5,3 +5,5 @@ Sometimes I just want to share my opinions online in response to the controversi
 But then I remember I have a responsibility to uphold.
 #This line is just to test the hashtag function.
 ##This line is to test the double hashes.
+**now I am trying two stars**
+*now I am trying one star*
